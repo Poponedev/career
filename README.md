@@ -4,4 +4,4 @@
 
 ## 채용 포지션
 
-서버개발
+[서버개발](https://github.com/Poponedev/career/blob/master/server.md)
