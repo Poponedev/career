@@ -32,7 +32,7 @@
 클라우드 인프라 플랫폼과 강력한 유연성을 자랑하는 ORM 기반 서버 플랫폼을 토대로 패션 SNS 서비스를 개발하는 포포네에서 아래와 같은 멋진 분을 기다리고 있습니다.
 
 
-[리드 개발자](https://github.com/Poponedev/career/blob/master/server_lead.md)
+[리드 개발자](https://github.com/Poponedev/career/blob/master/server_lead.md)  
 [데이터 분석(추천) 개발자](https://github.com/Poponedev/career/blob/master/server_data.md)
 
 
